@@ -1,1 +1,1 @@
-anything
+print("hi".)
