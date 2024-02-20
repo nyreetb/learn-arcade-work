@@ -1,4 +1,14 @@
-print("hello world")
-print("programming in python is awesome")
-print()
-print("hello world!/n/nProgramming in python is awesome.")
+def do_a_bunch_of_math(a, b):
+   sum = a + b
+   difference = a - b
+   product = a * b
+   quotient = a / b
+
+   return sum, difference, product
+
+
+sum, difference, product = do_a_bunch_of_math(3, 9)
+print("the sum is",sum)
+print("the difference is, difference)"
+      "")
+print("the product is,product")
