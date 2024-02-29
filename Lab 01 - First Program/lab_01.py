@@ -11,4 +11,5 @@ sum, difference, product = do_a_bunch_of_math(3, 9)
 print("the sum is",sum)
 print("the difference is, difference)"
       "")
-print("the product is,product")
+
+print("y = x / x+ 2")
